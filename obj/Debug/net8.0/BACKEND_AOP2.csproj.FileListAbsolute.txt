@@ -1,0 +1,14 @@
+D:\p\UVV\BACKEND_AOP2\bin\Debug\net8.0\BACKEND_AOP2.exe
+D:\p\UVV\BACKEND_AOP2\bin\Debug\net8.0\BACKEND_AOP2.deps.json
+D:\p\UVV\BACKEND_AOP2\bin\Debug\net8.0\BACKEND_AOP2.runtimeconfig.json
+D:\p\UVV\BACKEND_AOP2\bin\Debug\net8.0\BACKEND_AOP2.dll
+D:\p\UVV\BACKEND_AOP2\bin\Debug\net8.0\BACKEND_AOP2.pdb
+D:\p\UVV\BACKEND_AOP2\obj\Debug\net8.0\BACKEND_AOP2.GeneratedMSBuildEditorConfig.editorconfig
+D:\p\UVV\BACKEND_AOP2\obj\Debug\net8.0\BACKEND_AOP2.AssemblyInfoInputs.cache
+D:\p\UVV\BACKEND_AOP2\obj\Debug\net8.0\BACKEND_AOP2.AssemblyInfo.cs
+D:\p\UVV\BACKEND_AOP2\obj\Debug\net8.0\BACKEND_AOP2.csproj.CoreCompileInputs.cache
+D:\p\UVV\BACKEND_AOP2\obj\Debug\net8.0\BACKEND_AOP2.dll
+D:\p\UVV\BACKEND_AOP2\obj\Debug\net8.0\refint\BACKEND_AOP2.dll
+D:\p\UVV\BACKEND_AOP2\obj\Debug\net8.0\BACKEND_AOP2.pdb
+D:\p\UVV\BACKEND_AOP2\obj\Debug\net8.0\BACKEND_AOP2.genruntimeconfig.cache
+D:\p\UVV\BACKEND_AOP2\obj\Debug\net8.0\ref\BACKEND_AOP2.dll
